@@ -17,6 +17,9 @@ AlexBot Chat API es una aplicación backend construida con Node.js y Express. Ut
 
 Para ejecutar el modelo llama3 en tu entorno local, asegúrate de cumplir con los siguientes requisitos:
 
+Url para descargar modelos
+### 0.https://ollama.com/library
+
 ### 1. Hardware
 
 - **CPU**: Se recomienda un procesador moderno de múltiples núcleos (como Intel i7/i9 o AMD Ryzen 7/9 :: minimo ryezen 5 o intel i5 mas recientes) para un rendimiento óptimo..
