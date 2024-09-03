@@ -17,7 +17,7 @@ AlexBot Chat API es una aplicación backend construida con Node.js y Express. Ut
 
 Para ejecutar el modelo llama3 en tu entorno local, asegúrate de cumplir con los siguientes requisitos:
 
-Url para descargar modelos
+Url para ver los modelos
 ### 0.https://ollama.com/library
 
 ### 1. Hardware
